@@ -1,0 +1,11 @@
+﻿fm2018.exe 8 4
+pes2018.exe 3 9
+visual.exe 15 16
+skype.exe 2 7
+viber.exe 6 3
+kodi.exe 13 7
+instagram.exe 20 6
+chrome.exe 50 2
+notepad++.exe 11 3
+notepad.exe 12 30
+dropbox.exe 1 45
